@@ -13,4 +13,4 @@ No internet connection is required. The app works offline, so parents can use it
 The Baby Cry Analyzer uses deep learning algorithms to analyze the sound of the baby's cry and identify patterns that correspond to different causes of distress. The app then provides a personalized recommendation based on the analysis.
 
 ### Note
-This is just a project idea alone. If anyone wants to contribute to this project or want to work in this project, Kindly create a issue. 
+This is just a project idea alone. If anyone wants to contribute to this project or want to work in this project, Kindly create an issue. 
